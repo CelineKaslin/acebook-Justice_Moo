@@ -2,6 +2,10 @@
 
 # Acebook #
 
+## App Screen Shot ##
+
+![acebook screen shot](https://user-images.githubusercontent.com/43742795/52537899-cf090d80-2d63-11e9-8598-740355ac42e4.png)
+
 ## project ##
 
 We are building a web app similar to Facebook, based on the following user stories :
@@ -212,6 +216,6 @@ The page will be displayed on your browser.
 Our 5 fabulous *Justice_Mooeesss* team members who collaborate to build this app :<br/>
 @MichaelNguyen974 <br/>
 @joaoag (João Abbott-Gribben)<br/>
-@subomionanuga
-@tomlovesgithub
+@subomionanuga<br/>
+@tomlovesgithub<br/>
 @CelineKaslin
